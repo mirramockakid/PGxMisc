@@ -1,0 +1,4 @@
+#Sample	Gene	SolutionID	Major	Minor	Copy	Allele	Location	Type	Coverage	Effect	dbSNP	Code	Status
+#Solution 1: *1.001, *37.001; gene=SLCO1B1-pharmvar-6.2.14 (2025-07-20); cpic=normal
+ERR1955338	SLCO1B1	1	*1/*37	1.001;37.001	0	1.001							
+ERR1955338	SLCO1B1	1	*1/*37	1.001;37.001	1	37.001	21176803	A>G	24	N130D	rs2306283	
